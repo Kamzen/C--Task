@@ -1,0 +1,14 @@
+C:\Users\ThembaMakamu\source\repos\C#-Task\C#-Task\bin\Debug\net6.0\C#-Task.exe
+C:\Users\ThembaMakamu\source\repos\C#-Task\C#-Task\bin\Debug\net6.0\C#-Task.deps.json
+C:\Users\ThembaMakamu\source\repos\C#-Task\C#-Task\bin\Debug\net6.0\C#-Task.runtimeconfig.json
+C:\Users\ThembaMakamu\source\repos\C#-Task\C#-Task\bin\Debug\net6.0\C#-Task.dll
+C:\Users\ThembaMakamu\source\repos\C#-Task\C#-Task\bin\Debug\net6.0\C#-Task.pdb
+C:\Users\ThembaMakamu\source\repos\C#-Task\C#-Task\obj\Debug\net6.0\C#-Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThembaMakamu\source\repos\C#-Task\C#-Task\obj\Debug\net6.0\C#-Task.AssemblyInfoInputs.cache
+C:\Users\ThembaMakamu\source\repos\C#-Task\C#-Task\obj\Debug\net6.0\C#-Task.AssemblyInfo.cs
+C:\Users\ThembaMakamu\source\repos\C#-Task\C#-Task\obj\Debug\net6.0\C#-Task.csproj.CoreCompileInputs.cache
+C:\Users\ThembaMakamu\source\repos\C#-Task\C#-Task\obj\Debug\net6.0\C#-Task.dll
+C:\Users\ThembaMakamu\source\repos\C#-Task\C#-Task\obj\Debug\net6.0\refint\C#-Task.dll
+C:\Users\ThembaMakamu\source\repos\C#-Task\C#-Task\obj\Debug\net6.0\C#-Task.pdb
+C:\Users\ThembaMakamu\source\repos\C#-Task\C#-Task\obj\Debug\net6.0\C#-Task.genruntimeconfig.cache
+C:\Users\ThembaMakamu\source\repos\C#-Task\C#-Task\obj\Debug\net6.0\ref\C#-Task.dll
